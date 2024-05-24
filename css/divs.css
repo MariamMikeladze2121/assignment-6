@@ -1,0 +1,55 @@
+.divclass > div {
+  width: 362px;
+  height: 171px;
+}
+
+.divclass2 {
+  background-color: #FFFFFF;
+  width: 362px;
+  height: 171px;
+  border-radius: 0px 0px 5px 5px;
+  opacity: 0px;
+}
+
+.pclass {
+  display: inline-block;
+  color: #8A8787;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: left;
+  width: 238px;
+  height: 36px;
+  line-height: 20px;
+  margin: 40px;
+  margin-top: 80px;
+  margin-bottom: 15px;
+}
+
+.divclass > div {
+  width: 362px;
+  height: 171px;
+}
+
+.divclass2 {
+  background-color: #FFFFFF;
+  width: 362px;
+  height: 171px;
+  border-radius: 0px 0px 5px 5px;
+  opacity: 0px;
+}
+
+.divclass {
+  vertical-align: top;
+  display: inline-block;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.divclass1 {
+  margin-left: 30px;
+}
+
+.divclass3 {
+  margin-left: 40px;
+}/*# sourceMappingURL=divs.css.map */

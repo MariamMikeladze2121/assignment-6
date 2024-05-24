@@ -1,0 +1,39 @@
+@import "variables";
+
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: $header-bg-color ;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1166px;
+  padding: 20px;
+  margin:0 auto;
+}
+header > nav {
+  width: 1166px;
+  height: 88px;
+  padding:20px ;
+  margin: 0 auto;
+}
+nav > a {
+   text-decoration: none;
+   font-size: 11px;
+   font-family:$font-family ;
+   margin-right: 35px ;
+   color: $link-color;
+   font-weight: 700;
+}
+.imgclass{
+  width: 32px;
+  height: 32px;
+  vertical-align: top;
+  margin-right: 780px;
+ 
+}

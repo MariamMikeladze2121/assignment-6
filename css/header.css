@@ -1,0 +1,40 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #F1F1F1;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1166px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+header > nav {
+  width: 1166px;
+  height: 88px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+nav > a {
+  text-decoration: none;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  margin-right: 35px;
+  color: black;
+  font-weight: 700;
+}
+
+.imgclass {
+  width: 32px;
+  height: 32px;
+  vertical-align: top;
+  margin-right: 780px;
+}/*# sourceMappingURL=header.css.map */
